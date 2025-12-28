@@ -19,21 +19,21 @@ const Navbar = () => {
 
   return (
     <div className={color ? "header header-bg": "header"}>
-        <Link className="btn" to={"/"}>
+        <Link to={"/"}>
             <h1>Sam's Portfolio</h1> 
         </Link>
         <ul className={click ? "Nav-menu active" : "Nav-menu"}>
                 <li>
-                    <Link className="btn" to={"/"}>Home</Link>
+                    <Link to={"/"}>Home</Link>
                 </li>
                 <li>
-                    <Link className="btn" to={"/projects"}>Projects</Link>
+                    <Link to={"/projects"}>Projects</Link>
                 </li>
                 <li>
-                    <Link className="btn" to={"/contact"}>Contact</Link>
+                    <Link to={"/contact"}>Contact</Link>
                 </li>
                 <li>
-                    <Link className="btn" to={"/about"}>About</Link>
+                    <Link to={"/about"}>About</Link>
                 </li>
         </ul>
         <div className="hamburger" onClick={handleClick}>
