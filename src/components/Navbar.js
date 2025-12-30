@@ -41,9 +41,7 @@ const Navbar = () => {
             (<FaTimes size={20} style={{color: "#fff"}}/>)
             :
             (<FaBars size={20} style={{color: "#fff"}}/>)
-            }
-            
-            
+            }    
         </div>
     </div>
   )
