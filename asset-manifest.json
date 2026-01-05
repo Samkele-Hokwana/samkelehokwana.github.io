@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/samkele-hokwana.github.io/samkelehokwana.github.io/static/css/main.1707a004.css",
-    "main.js": "/samkele-hokwana.github.io/samkelehokwana.github.io/static/js/main.420466d1.js",
-    "static/media/samDBSportfolio.pdf": "/samkele-hokwana.github.io/samkelehokwana.github.io/static/media/samDBSportfolio.6c759df4551f1343da1b.pdf",
-    "static/media/react2.png": "/samkele-hokwana.github.io/samkelehokwana.github.io/static/media/react2.664acf277ee6c124dfc7.png",
-    "static/media/reacto.webp": "/samkele-hokwana.github.io/samkelehokwana.github.io/static/media/reacto.b7fd547dc5ca56722c9f.webp",
-    "static/media/chair.jpg": "/samkele-hokwana.github.io/samkelehokwana.github.io/static/media/chair.945e1a8d30219e35f83e.jpg",
-    "static/media/Intro-bg.jpg": "/samkele-hokwana.github.io/samkelehokwana.github.io/static/media/Intro-bg.ad3a850d3f5a9f87db64.jpg",
-    "static/media/laundry.jpg": "/samkele-hokwana.github.io/samkelehokwana.github.io/static/media/laundry.95e37c7d9dd7ee988c67.jpg",
-    "index.html": "/samkele-hokwana.github.io/samkelehokwana.github.io/index.html",
-    "main.1707a004.css.map": "/samkele-hokwana.github.io/samkelehokwana.github.io/static/css/main.1707a004.css.map",
-    "main.420466d1.js.map": "/samkele-hokwana.github.io/samkelehokwana.github.io/static/js/main.420466d1.js.map"
+    "main.css": "/sam-portfolio/static/css/main.1707a004.css",
+    "main.js": "/sam-portfolio/static/js/main.a628f8de.js",
+    "static/media/samDBSportfolio.pdf": "/sam-portfolio/static/media/samDBSportfolio.6c759df4551f1343da1b.pdf",
+    "static/media/react2.png": "/sam-portfolio/static/media/react2.664acf277ee6c124dfc7.png",
+    "static/media/reacto.webp": "/sam-portfolio/static/media/reacto.b7fd547dc5ca56722c9f.webp",
+    "static/media/chair.jpg": "/sam-portfolio/static/media/chair.945e1a8d30219e35f83e.jpg",
+    "static/media/Intro-bg.jpg": "/sam-portfolio/static/media/Intro-bg.ad3a850d3f5a9f87db64.jpg",
+    "static/media/laundry.jpg": "/sam-portfolio/static/media/laundry.95e37c7d9dd7ee988c67.jpg",
+    "index.html": "/sam-portfolio/index.html",
+    "main.1707a004.css.map": "/sam-portfolio/static/css/main.1707a004.css.map",
+    "main.a628f8de.js.map": "/sam-portfolio/static/js/main.a628f8de.js.map"
   },
   "entrypoints": [
     "static/css/main.1707a004.css",
-    "static/js/main.420466d1.js"
+    "static/js/main.a628f8de.js"
   ]
 }
